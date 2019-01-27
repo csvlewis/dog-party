@@ -4,17 +4,18 @@
 }
 
 .header {
-  background-color: red
+  background-color: #92E0E5
 }
 
 .main-display {
-  background-color: blue
+  background-image: url("../../images/park.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%
 }
 
 .dogs {
-  background-color: yellow
 }
 
 .footer {
-  background-color: green
+  background-color: #3F8CA7
 }
