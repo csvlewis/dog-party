@@ -3,6 +3,11 @@
   grid-template-rows: 8vh 70vh 80vh 25vh;
 }
 
+.dogs {
+  display: grid;
+  grid-template-columns: 33vw 33vw 33vw
+}
+
 .header {
   background-color: #92E0E5
 }
@@ -18,4 +23,16 @@
 
 .footer {
   background-color: #3F8CA7
+}
+
+.dog-1 {
+  background-color: blue
+}
+
+.dog-2 {
+  background-color: red
+}
+
+.dog-3 {
+  background-color: green
 }
