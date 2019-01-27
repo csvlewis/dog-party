@@ -1,0 +1,20 @@
+.page-grid {
+  display: grid;
+  grid-template-rows: 8vh 70vh 80vh 25vh;
+}
+
+.header {
+  background-color: red
+}
+
+.main-display {
+  background-color: blue
+}
+
+.dogs {
+  background-color: yellow
+}
+
+.footer {
+  background-color: green
+}
